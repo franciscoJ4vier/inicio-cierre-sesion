@@ -10,3 +10,4 @@ urlpatterns = [
     path('', RedirectView.as_view(url='/accounts/login/')),
     
 ]
+]
